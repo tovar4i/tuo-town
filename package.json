@@ -1,18 +1,18 @@
 {
-  "name": "vanilla-app-template-vite",
+  "name": "tuo-town",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/vanilla-app-template-vite/",
+    "build": "vite build --base=/tuo-town/",
     "preview": "vite preview"
   },
   "devDependencies": {
     "vite": "^4.0.0",
     "glob": "^8.1.0"
   },
-  "author": "Alexander Repeta <alexander.repeta@gmail.com>",
+  "author": "Tovarchi Igor <tovarchiigor@gmail.com>",
   "license": "ISC",
   "dependencies": {
     "vite-plugin-full-reload": "^1.0.5",
